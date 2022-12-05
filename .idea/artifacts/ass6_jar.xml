@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ass6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ass6_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ass6.jar">
+        <element id="module-output" name="ass6" />
+      </element>
+      <element id="library" level="project" name="biuoop-1.4" />
+    </root>
+  </artifact>
+</component>
